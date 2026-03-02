@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus 
 
-<!--
-**Mathovski/Mathovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🔐 Certificado em Cibersegurança  
+🌎 Inglês avançado  
 
-Here are some ideas to get you started:
+Atualmente me especializo na área de **Cibersegurança**, com foco em GRC, análise de riscos, conscientização e auditoria de segurança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Tenho experiência prévia como professor de inglês e atuação em Customer Experience, o que fortaleceu habilidades essenciais para a área de segurança:
+
+- Comunicação clara e técnica
+- Análise crítica e resolução de problemas
+- Visão centrada no usuário
+- Facilidade para documentação e reporte de incidentes
+- Leitura e interpretação de documentação técnica em inglês
+
+Hoje direciono minha carreira para Segurança da Informação, buscando minha primeira oportunidade na área para aplicar meus conhecimentos técnicos e continuar evoluindo profissionalmente.
+
+---
+
+## 🛠️ Conhecimentos Técnicos
+
+- Fundamentos de Cibersegurança
+- Segurança de redes
+- Conceitos de SIEM e monitoramento
+- Análise de vulnerabilidades
+- HTML, CSS e JavaScript
+- Linux, SQL e banco de dados
+
+---
+
+## 📚 Em constante evolução
+
+Atualmente aprofundando conhecimentos práticos em:
+- Análise de logs
+- Boas práticas de segurança ofensiva e defensiva
+
+---
+
