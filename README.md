@@ -22,7 +22,7 @@ Hoje direciono minha carreira para Segurança da Informação, buscando minha pr
 
 ---
 
-## 🛠️ Conhecimentos Técnicos
+## 💻 Conhecimentos Técnicos
 
 - Fundamentos de Cibersegurança
 - Segurança de redes
