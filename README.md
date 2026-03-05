@@ -10,7 +10,7 @@ Atualmente me especializo na área de **Cibersegurança**, com foco em GRC, aná
 
 ## 🚀 Sobre mim
 
-Tenho experiência prévia como professor de inglês e atuação em Customer Experience, o que fortaleceu habilidades essenciais para a área de segurança:
+Tenho experiência prévia em Customer Experience, o que fortaleceu habilidades essenciais para a área de segurança:
 
 - Comunicação clara e técnica
 - Análise crítica e resolução de problemas
